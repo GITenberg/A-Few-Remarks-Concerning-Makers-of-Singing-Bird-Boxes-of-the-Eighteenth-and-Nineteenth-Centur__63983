@@ -1,0 +1,32 @@
+_repo: A-Few-Remarks-Concerning-Makers-of-Singing-Bird-Boxes-of-the-Eighteenth-and-Nineteenth-Centur__63983
+_version: 0.0.1
+alternative_title: A Few Remarks Concerning Makers of Singing Bird Boxes of the 18th
+  and 19th Centuries
+creator:
+  author:
+    agent_name: Pélissier, Georges
+    aliases:
+    - Pélissier, Georges Constantin
+    - Pelissier, Georges
+    birthdate: 1865
+    deathdate: 1931
+    gutenberg_agent_id: '52695'
+    url: http://www.gutenberg.org/2009/agents/52695
+description: Concerning Pierre Jaquet-Droz, Henri Louis Jaquet-Droz, Charles Bruguier,
+  Bruguier du Grand Pré, the Rochat family, Lami of Geneva and the Maillardet family.
+gutenberg_issued: '2020-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clock and watch makers -- Switzerland'
+- !lcsh 'Mechanical singing-bird boxes -- Switzerland'
+- !lcc 'ML'
+- GITenberg
+title: A Few Remarks Concerning Makers of Singing Bird Boxes of the Eighteenth and
+  Nineteenth Centuries
+url: http://www.gutenberg.org/ebooks/63983
