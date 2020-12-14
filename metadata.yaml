@@ -1,7 +1,10 @@
 _repo: A-Few-Remarks-Concerning-Makers-of-Singing-Bird-Boxes-of-the-Eighteenth-and-Nineteenth-Centur__63983
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: A Few Remarks Concerning Makers of Singing Bird Boxes of the 18th
   and 19th Centuries
+covers:
+- cover_type: archival
+  image_path: 63983-h/images/cover.jpg
 creator:
   author:
     agent_name: Pélissier, Georges
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52695
 description: Concerning Pierre Jaquet-Droz, Henri Louis Jaquet-Droz, Charles Bruguier,
   Bruguier du Grand Pré, the Rochat family, Lami of Geneva and the Maillardet family.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63983#A-Few-Remarks-Concerning-Makers-of-Singing-Bird-Boxes-of-the-Eighteenth-and-Nineteenth-Centur_
 gutenberg_issued: '2020-12-07'
 gutenberg_type: Text
 identifiers:
